@@ -1,0 +1,15 @@
+Bueno de primera la matriz que guardara el identificador del producto y el identificador de la sucursal de la que proviene 
+La lista simple que almacenara los reportes o la información del producto suponiendo que los reportes sea la compra o edición de cada producto
+Cada reporte se ordenara a través de alguno de los métodos de ordenamiento seria para mostrar los movimientos de la actividad ordenando la fecha o hora de creación de cada reporte
+Se generara la clase del producto con la información y a través de eso con el get y set para ir gestionando las compras o registros de los productos 
+Los campos de datos para los productos serian 
+-id
+-Nombre
+-Precio
+-Sucursal
+-Disponibilidad
+-Fecha de registro
+-Fecha de compra
+
+El formulario del inventario que muestre el nombre del producto, la disponibilidad, la sucursal y el precio en un datagridview y la compra de los productos con un textbox que haga una búsqueda a algún producto y que se muestre según la disponibilidad 
+Por cada compra o registro de productos se generaría un reporte el cual actualiza la disponibilidad y la fecha de registro o compra.

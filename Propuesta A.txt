@@ -1,0 +1,64 @@
+Guardar en fuera del programa:
+* Matriz Relación Producto-Sucursal
+* Lista Índice
+
+Listas:
+
+ListProductos<Producto>
+
+	Nodo:
+
+	Producto<>
+	- Int Índice
+	- String Nombre
+	- String Tipo
+
+ListReportes<Reporte>
+
+	Nodo:
+
+	Reporte<>
+	- Int ID
+	- String Tipo
+	- Data Fecha 
+
+
+Matriz Producto-Sucursal:
+
+las columnas serán los productos
+La Filas la Sucursal a la que pertenecen
+
+Guardara la cantidad que hay del producto en existencia en cada sucursal.
+
+
+
+Clases:
+
+ProductoFerreteria //Manejo total y principal de la lista
+
+HerramientaManual //Pasar lista de productos con tipo Manual
+MaterialConstruccion //Pasar lista de productos con tipo Construcción
+InsumoElectrico //Pasar lista de productos con tipo Electrónico
+
+Ventanas:
+
+frmInventario //Escoger Sucursal a la que pertenece
+
+IInventarioRepositorio //Mostrar el Repositorio correspondiente a la Sucursal.
+IServicioInventario //Funciones de guardado y uso.
+
+
+Estructura:
+
+-Capa de Presentación
+-Capa de Negocio
+-Capa de Persistencia
+-Capa de Base de datos: .txt
+
+ 
+
+
+
+
+
+
