@@ -1,0 +1,9 @@
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\bin\Debug\Codigo Fuente.exe.config
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\bin\Debug\Codigo Fuente.exe
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\bin\Debug\Codigo Fuente.pdb
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\obj\Debug\Capa de Presentación.csproj.AssemblyReference.cache
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\obj\Debug\Codigo_Fuente.Properties.Resources.resources
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\obj\Debug\Capa de Presentación.csproj.GenerateResource.cache
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\obj\Debug\Capa de Presentación.csproj.CoreCompileInputs.cache
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\obj\Debug\Codigo Fuente.exe
+C:\Users\aldah\OneDrive\Desktop\El mejor proyecto 3\proyecto_sistema_inventario_ferreteria\Formulario\Codigo Fuente\obj\Debug\Codigo Fuente.pdb
